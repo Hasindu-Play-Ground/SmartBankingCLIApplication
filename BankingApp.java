@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bank {
+public class BankingApp {
     private static final Scanner scan = new Scanner(System.in);
 
     // ANSI escape codes for text colors
